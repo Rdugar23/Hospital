@@ -1,0 +1,192 @@
+.faq8faq8 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.faq8-max-width {
+  align-self: center;
+}
+.faq8-container10 {
+  align-self: stretch;
+  align-items: stretch;
+}
+.faq8-section-title {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+}
+.faq8-list {
+  gap: 32px;
+  flex: 1;
+  width: 100%;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.faq8-faq1 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-width: 1px;
+  flex-direction: column;
+}
+.faq8-trigger1 {
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-self: stretch;
+  align-items: center;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  border-radius: var(--dl-radius-radius-radius4);
+  animation-name: none;
+  flex-direction: row;
+  animation-delay: 0s;
+  justify-content: space-between;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+.faq8-icons-container1 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.faq8-icon10 {
+  width: 24px;
+  height: 24px;
+}
+.faq8-icon12 {
+  width: 24px;
+  height: 24px;
+}
+.faq8-container14 {
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-self: stretch;
+  animation-name: fadeIn;
+  flex-direction: row;
+  animation-delay: 0s;
+  justify-content: space-between;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+.faq8-faq2 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-width: 1px;
+  flex-direction: column;
+}
+.faq8-trigger2 {
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-self: stretch;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.faq8-icons-container2 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.faq8-icon14 {
+  width: 24px;
+  height: 24px;
+}
+.faq8-icon16 {
+  width: 24px;
+  height: 24px;
+}
+.faq8-container17 {
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-self: stretch;
+  animation-name: fadeIn;
+  flex-direction: row;
+  animation-delay: 0s;
+  justify-content: space-between;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+.faq8-faq3 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-width: 1px;
+  flex-direction: column;
+}
+.faq8-trigger3 {
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-self: stretch;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.faq8-icons-container3 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.faq8-icon18 {
+  width: 24px;
+  height: 24px;
+}
+.faq8-icon20 {
+  width: 24px;
+  height: 24px;
+}
+.faq8-container20 {
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-self: stretch;
+  animation-name: fadeIn;
+  flex-direction: row;
+  animation-delay: 0s;
+  justify-content: space-between;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+.faq8-fragment1 {
+  display: contents;
+}
+.faq8-text342 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.faq8-fragment2 {
+  display: contents;
+}
+.faq8-text343 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.faq8-fragment3 {
+  display: contents;
+}
+.faq8-text344 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
